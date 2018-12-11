@@ -1,0 +1,11 @@
+syntax: glob
+.idea
+.env
+.orig
+vendor
+storage
+composer.lock
+bootstrap/cache
+public/img/coverImage
+public/img/descriptionImage
+public/img/eventImage
